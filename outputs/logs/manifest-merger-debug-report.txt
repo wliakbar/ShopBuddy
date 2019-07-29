@@ -1,0 +1,170 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/wliakbar/AndroidStudioProjects/ShopBuddy/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/wliakbar/AndroidStudioProjects/ShopBuddy/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/wliakbar/AndroidStudioProjects/ShopBuddy/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/wliakbar/AndroidStudioProjects/ShopBuddy/app/src/main/AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/76ecddd09628ba564429cd99ab4aea3f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/61c98ae68b95f24d2b80bfadf7ad5b2f/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/ef62373eabf78861638767ef7700e97d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/c30f1dd4503208f25962f9019b051933/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/20523fa53ce1bd25bac1bf00f9039f46/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/f0081a222d4bf843e2f425d489d6a1eb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/bb147b725aa2e11b0cdfd7efd6086f32/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/1a22339fcd9ab32f8cf610092bd7adff/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/20b47b7adeed6f36971d8c60c1464ade/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/54ed1fb4903122376849b6473756c299/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/66901894b0470e743f9d8b9641ff819b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/c03d5c75af1c3a752f098cb1c1c1bd38/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/7ca9388175172a53bfab43da6436c898/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/f19a268eb2a2c35fa826247f315cc435/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/1640fb402a69ae6689a204c0b37d513b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/da47755fc973678daeef39b5b55fb643/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/b2b6cbeb8dcfcce084cc3d3a927d659d/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/a06191e11d5beafe94463578dfcb8ae9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/199514196b7cd9c5925003e7af90ed7e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/aab9d7155b0957918a4283443eb7a81d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/66c4147a7ec84a2eb2cb022f271729bb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/dd7f87a1525c87a5d233d607f2d6da65/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/31f3e78a689cfd65632a1fccc5f0573a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/fbdb7988493eee74db286d73406e7d9e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/76161a8a77cadb069129cbb4eded2691/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/8671f2bd6312cc25b06b0c93c3fd084e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/3f44e3922ed0e80ed207cf6a742bbffa/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/wliakbar/AndroidStudioProjects/ShopBuddy/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/wliakbar/AndroidStudioProjects/ShopBuddy/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/wliakbar/AndroidStudioProjects/ShopBuddy/app/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from /Users/wliakbar/AndroidStudioProjects/ShopBuddy/app/src/main/AndroidManifest.xml:3:5-36
+		INJECTED from /Users/wliakbar/AndroidStudioProjects/ShopBuddy/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wliakbar/AndroidStudioProjects/ShopBuddy/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/wliakbar/AndroidStudioProjects/ShopBuddy/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wliakbar/AndroidStudioProjects/ShopBuddy/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/wliakbar/AndroidStudioProjects/ShopBuddy/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/wliakbar/AndroidStudioProjects/ShopBuddy/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wliakbar/AndroidStudioProjects/ShopBuddy/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/wliakbar/AndroidStudioProjects/ShopBuddy/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/wliakbar/AndroidStudioProjects/ShopBuddy/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/wliakbar/AndroidStudioProjects/ShopBuddy/app/src/main/AndroidManifest.xml:5:5-23:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/61c98ae68b95f24d2b80bfadf7ad5b2f/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/61c98ae68b95f24d2b80bfadf7ad5b2f/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/da47755fc973678daeef39b5b55fb643/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/da47755fc973678daeef39b5b55fb643/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/b2b6cbeb8dcfcce084cc3d3a927d659d/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/b2b6cbeb8dcfcce084cc3d3a927d659d/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/da47755fc973678daeef39b5b55fb643/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/wliakbar/AndroidStudioProjects/ShopBuddy/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/wliakbar/AndroidStudioProjects/ShopBuddy/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/wliakbar/AndroidStudioProjects/ShopBuddy/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/wliakbar/AndroidStudioProjects/ShopBuddy/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/wliakbar/AndroidStudioProjects/ShopBuddy/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/wliakbar/AndroidStudioProjects/ShopBuddy/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.shopbuddy.Remind
+ADDED from /Users/wliakbar/AndroidStudioProjects/ShopBuddy/app/src/main/AndroidManifest.xml:12:9-53
+	android:name
+		ADDED from /Users/wliakbar/AndroidStudioProjects/ShopBuddy/app/src/main/AndroidManifest.xml:12:19-41
+activity#com.example.shopbuddy.Expense
+ADDED from /Users/wliakbar/AndroidStudioProjects/ShopBuddy/app/src/main/AndroidManifest.xml:13:9-45
+	android:name
+		ADDED from /Users/wliakbar/AndroidStudioProjects/ShopBuddy/app/src/main/AndroidManifest.xml:13:19-42
+activity#com.example.shopbuddy.Create
+ADDED from /Users/wliakbar/AndroidStudioProjects/ShopBuddy/app/src/main/AndroidManifest.xml:14:9-44
+	android:name
+		ADDED from /Users/wliakbar/AndroidStudioProjects/ShopBuddy/app/src/main/AndroidManifest.xml:14:19-41
+activity#com.example.shopbuddy.Open
+ADDED from /Users/wliakbar/AndroidStudioProjects/ShopBuddy/app/src/main/AndroidManifest.xml:15:9-42
+	android:name
+		ADDED from /Users/wliakbar/AndroidStudioProjects/ShopBuddy/app/src/main/AndroidManifest.xml:15:19-39
+activity#com.example.shopbuddy.MainActivity
+ADDED from /Users/wliakbar/AndroidStudioProjects/ShopBuddy/app/src/main/AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from /Users/wliakbar/AndroidStudioProjects/ShopBuddy/app/src/main/AndroidManifest.xml:16:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/wliakbar/AndroidStudioProjects/ShopBuddy/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /Users/wliakbar/AndroidStudioProjects/ShopBuddy/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /Users/wliakbar/AndroidStudioProjects/ShopBuddy/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/wliakbar/AndroidStudioProjects/ShopBuddy/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /Users/wliakbar/AndroidStudioProjects/ShopBuddy/app/src/main/AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from /Users/wliakbar/AndroidStudioProjects/ShopBuddy/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/wliakbar/AndroidStudioProjects/ShopBuddy/app/src/main/AndroidManifest.xml
+INJECTED from /Users/wliakbar/AndroidStudioProjects/ShopBuddy/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/76ecddd09628ba564429cd99ab4aea3f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/76ecddd09628ba564429cd99ab4aea3f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/61c98ae68b95f24d2b80bfadf7ad5b2f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/61c98ae68b95f24d2b80bfadf7ad5b2f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/ef62373eabf78861638767ef7700e97d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/ef62373eabf78861638767ef7700e97d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/c30f1dd4503208f25962f9019b051933/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/c30f1dd4503208f25962f9019b051933/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/20523fa53ce1bd25bac1bf00f9039f46/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/20523fa53ce1bd25bac1bf00f9039f46/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/f0081a222d4bf843e2f425d489d6a1eb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/f0081a222d4bf843e2f425d489d6a1eb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/bb147b725aa2e11b0cdfd7efd6086f32/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/bb147b725aa2e11b0cdfd7efd6086f32/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/1a22339fcd9ab32f8cf610092bd7adff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/1a22339fcd9ab32f8cf610092bd7adff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/20b47b7adeed6f36971d8c60c1464ade/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/20b47b7adeed6f36971d8c60c1464ade/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/54ed1fb4903122376849b6473756c299/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/54ed1fb4903122376849b6473756c299/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/66901894b0470e743f9d8b9641ff819b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/66901894b0470e743f9d8b9641ff819b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/c03d5c75af1c3a752f098cb1c1c1bd38/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/c03d5c75af1c3a752f098cb1c1c1bd38/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/7ca9388175172a53bfab43da6436c898/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/7ca9388175172a53bfab43da6436c898/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/f19a268eb2a2c35fa826247f315cc435/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/f19a268eb2a2c35fa826247f315cc435/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/1640fb402a69ae6689a204c0b37d513b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/1640fb402a69ae6689a204c0b37d513b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/da47755fc973678daeef39b5b55fb643/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/da47755fc973678daeef39b5b55fb643/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/b2b6cbeb8dcfcce084cc3d3a927d659d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/b2b6cbeb8dcfcce084cc3d3a927d659d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/a06191e11d5beafe94463578dfcb8ae9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/a06191e11d5beafe94463578dfcb8ae9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/199514196b7cd9c5925003e7af90ed7e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/199514196b7cd9c5925003e7af90ed7e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/aab9d7155b0957918a4283443eb7a81d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/aab9d7155b0957918a4283443eb7a81d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/66c4147a7ec84a2eb2cb022f271729bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/66c4147a7ec84a2eb2cb022f271729bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/dd7f87a1525c87a5d233d607f2d6da65/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/dd7f87a1525c87a5d233d607f2d6da65/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/31f3e78a689cfd65632a1fccc5f0573a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/31f3e78a689cfd65632a1fccc5f0573a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/fbdb7988493eee74db286d73406e7d9e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/fbdb7988493eee74db286d73406e7d9e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/76161a8a77cadb069129cbb4eded2691/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/76161a8a77cadb069129cbb4eded2691/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/8671f2bd6312cc25b06b0c93c3fd084e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/8671f2bd6312cc25b06b0c93c3fd084e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/3f44e3922ed0e80ed207cf6a742bbffa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/wliakbar/.gradle/caches/transforms-2/files-2.1/3f44e3922ed0e80ed207cf6a742bbffa/AndroidManifest.xml:20:5-44
+INJECTED from /Users/wliakbar/AndroidStudioProjects/ShopBuddy/app/src/main/AndroidManifest.xml
+INJECTED from /Users/wliakbar/AndroidStudioProjects/ShopBuddy/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/wliakbar/AndroidStudioProjects/ShopBuddy/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wliakbar/AndroidStudioProjects/ShopBuddy/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wliakbar/AndroidStudioProjects/ShopBuddy/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/wliakbar/AndroidStudioProjects/ShopBuddy/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wliakbar/AndroidStudioProjects/ShopBuddy/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wliakbar/AndroidStudioProjects/ShopBuddy/app/src/main/AndroidManifest.xml
